@@ -107,3 +107,4 @@ Centres d’intérêt : Business Analysis, Data, Transformation digitale
 ## 📄 Licence
 
 Ce projet est destiné à un usage académique et portfolio.
+
